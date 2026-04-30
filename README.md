@@ -1,7 +1,8 @@
 # Insurance-Cross-Selling-Strategy-Analysis
 
 # Insurance Lead Conversion Prediction
-I worked on a 50,000-row insurance dataset to identify which customers are likely to convert (buy insurance). The project covers data cleaning, EDA (Exploratory Data Analysis), and visual analysis. My goal was to clean the data and analyze which factors influence whether a customer converts or not. Key steps were: handling missing values using smart imputation strategies, EDA across univariate, bivariate, and multivariate levels, and visual analysis using matplotlib and seaborn.
+I worked on a 50,000-row insurance dataset to identify which customers are likely to convert (buy insurance). The project covers data cleaning, EDA (Exploratory Data Analysis), and visual analysis. My goal was to clean the data and analyze which factors influence whether a customer converts or not.
+Key steps were: handling missing values using smart imputation strategies, EDA across univariate, bivariate, and multivariate levels, and visual analysis using matplotlib and seaborn.
 
 Iused libraries like pandas (data manipulation), numpy (numerical ops), matplotlib & seaborn (visualization), scipy.stats (statistics), re (regex for column name cleaning), ydata_profiling (auto EDA report).
 
